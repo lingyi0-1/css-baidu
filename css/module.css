@@ -1,0 +1,49 @@
+.header__a {
+    margin-right: 20px;
+    font-size: 13px;
+}
+
+.header__a_ml-346 {
+    margin-left: 346px;
+}
+
+.header__a:link {
+    color: #333;
+}
+
+.header__a:visited {
+    color: #333;
+}
+
+.header__a:active {
+    color: #00c;
+}
+
+.header__a:hover {
+    color: #00c;
+}
+
+.header__a_fw-700 {
+    font-weight: 700;
+}
+
+.header__button {
+    padding: 0px;
+    margin-right: 12px;
+    border: none;
+    font-size: 13px;
+    background-color: #49F;
+    color: #fff;
+}
+
+.footer__a {
+    color: inherit;
+}
+
+.footer__a_ml-25 {
+    margin-left: 25px;
+}
+
+.footer__a_ml-19 {
+    margin-left: 19px;
+}
