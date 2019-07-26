@@ -7,16 +7,11 @@
     height: 24px;
     float: right;
     margin-top: 18px;
-    overflow: hidden;
 }
 
 .header__a {
     margin-right: 20px;
     font-size: 13px;
-}
-
-.header__a_ml-346 {
-    margin-left: 346px;
 }
 
 .header__a:link {
