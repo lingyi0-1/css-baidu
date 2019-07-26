@@ -1,4 +1,4 @@
-实现效果：[https://lingyi0-1.github.io/css-baidu/](https://lingyi0-1.github.io/css-baidu/)  
+实现效果：[https://lingyi0-1.github.io/css-baidu/](https://lingyi0-1.github.io/css-baidu/)
 原网页网址：[https://www.baidu.com/](https://www.baidu.com/)
 
 ## 前言
