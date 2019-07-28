@@ -43,6 +43,10 @@
     color: #fff;
 }
 
+.header__button:focus {
+    outline: none;
+}
+
 .content{
     height: 191px;
     min-width: 833px;
@@ -115,6 +119,10 @@
 .content__button:active {
     background-color: #3075DC;
     box-shadow: 1px 1px 1px 0px #2964bb inset;
+}
+
+.content__button:focus {
+    outline: none;
 }
 
 .footer{
